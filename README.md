@@ -1,2 +1,2 @@
 # 0xC70FF3.github.io
-That's My Web Page !
+That's my web page ! This is usefull for hosting my tech wiki and some online demos...
